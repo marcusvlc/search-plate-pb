@@ -1,5 +1,7 @@
 # Pesquisa de Placas no Estado da Paraíba
 
+Atualmente, a pesquisa por placas de trânsito em nível nacional é limitada por a falta de uma API pública que disponibilize informações gratuitamente.
+Pensando nisso, a biblioteca search-plate-pb utiliza um crawler simples na página do Detran-PB para retornar as informações de quaisquer placas do estado da PB.
 
 ## Como usar?
 
