@@ -1,15 +1,21 @@
 {
-  "name": "plate-search-module",
+  "name": "search-plate-pb",
   "version": "1.0.0",
   "description": "Modulo utilizado para capturar informacoes de placas de transito.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusvlc/search-plate-pb.git"
+  },
+  "keywords": ["paraiba", "pb","placa","buscar", "detran", "sinesp"],
+  "author": "marcusvlc",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5"
-  }
+  },
+  "homepage": "https://github.com/marcusvlc/search-plate-pb#readme"
 }

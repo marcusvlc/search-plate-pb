@@ -13,4 +13,5 @@ const { searchPlate } = require('search-plate-pb')
 const plate = await searchPlate('XXX1234')
 ```
 
-- searchPlate(plate_number): Função que retorna diversas informações a respeito da placa passada como parâmetro
+- searchPlate(plate_number): 
+    Função que retorna diversas informações a respeito da placa passada como parâmetro
