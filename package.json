@@ -1,0 +1,15 @@
+{
+  "name": "plate-search-module",
+  "version": "1.0.0",
+  "description": "Modulo utilizado para capturar informacoes de placas de transito.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
